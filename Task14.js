@@ -187,4 +187,4 @@ function getTodos() {
    
    document.getElementById('error').addEventListener('click', errorHandling);
    
-   document.getElementById('cancel
+   document.getElementById('cancel').addEventListener('click', cancelToken);
